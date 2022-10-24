@@ -21,6 +21,7 @@ It was created to address the concern raised during our cohort Stop-Go-Continue 
 - [ ] Assign Roles
 - [ ] Write User Stories 
 - [ ] Break User Stories into smaller issues for assignment
+- [ ] Estimate time ([script to create labels automatically](https://github.com/fac25/project-template/blob/main/add-labels.js))
 
 ## Working on Issues
 - [ ] Break the issue into small 'steps'
