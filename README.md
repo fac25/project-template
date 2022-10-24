@@ -1,6 +1,6 @@
 # project-template
 
-This project template includes the Expected and Actual labels, reminders and a short checklist based on our SGC boards and the Project Handbook. 
+A summarization of our SGC boards with reminders and a short checklist based on the Project Handbook. 
 
 It was created to address the concern raised during our cohort Stop-Go-Continue session:
 
