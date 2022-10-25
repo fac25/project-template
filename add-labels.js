@@ -3,7 +3,7 @@
   * Adds descriptions per @NillerMedDild https://gist.github.com/Isaddo/7efebcb673a0957b9c6f07cd14826ea4#gistcomment-2715349
  
   Script created to add custom labels.
-  1. Go to your project's labels page: https://github.com/fac25/<your project>/labels
+  1. Go to your project's labels page: https://github.com/fac25/<your project repo name>/labels
   2. Copy and paste the code below
   3. Done (o゜▽゜)o☆
 */
