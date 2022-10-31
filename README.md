@@ -14,6 +14,7 @@ It was created to address the concern raised during our cohort Stop-Go-Continue 
 - More time planning at the beginning will result in less time having to code. 
 - Struggling to make a decision/assign issues? [Randomize!](https://learn.foundersandcoders.com/lollipop/?names=Abby%2CAbdullah%2CAlex%2CJoe%2CKarwan%2CLisa%2CManoela%2CPatrick%2CPaz%2CSumithra%2CSuraj%2CYassien)
 - Writing clean code and refactoring as you go often results in less time debugging. Trying to fix an issue in a messy codebase is a recipe for headaches...
+- Daily standups, document progress
 
 ## Checklist
 - [ ] Use correct repo name: `week#-<topic>-<team members' names or initials>`
@@ -25,4 +26,5 @@ It was created to address the concern raised during our cohort Stop-Go-Continue 
 
 ## Working on Issues
 - [ ] Break the issue into small 'steps'
+[View an example](https://github.com/fac25/week6-J-A-M-P/issues/1)
 - [ ] Plan and use pseudocode before writing code
